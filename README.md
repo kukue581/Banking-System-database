@@ -1,10 +1,5 @@
-# Banking-System-database
+# Banking-System-database (Microsoft SQL Server)
 SQL Server database project simulating a simple banking system. Includes table creation scripts, relationships, and stored procedures for managing customer data and transactions and audit tracking.
-# 🏦 Banking System Database (SQL Server)
-
-This project is a **Microsoft SQL Server** database designed to simulate a simple banking system. It includes scripts for creating tables, relationships, and stored procedures that manage customer information, transactions, and system auditing.
-
----
 
 📂 Project Structure
 Banking System/
