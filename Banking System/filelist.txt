@@ -1,0 +1,31 @@
+Folder PATH listing
+Volume serial number is 58C8-36E0
+C:.
+-   CreateBankTypeTable.sql
+-   CreateBranchShadowTable.sql
+-   CreateBranchTable.sql
+-   CreateBranchView.sql
+-   CreateCityTable.sql
+-   CreateCustomerTypeTable.sql
+-   CreateGenderTable.sql
+-   CreatePersonTable.sql
+-   CreatePersonView.sql
+-   CreateShadowPersonTable.sql
+-   CreateTransactionsTable.sql
+-   CreateTransactionView.sql
+-   filelist.txt
+-   
+L¦¦¦StoredProcedures
+        BranchDelete.sql
+        BranchInsert.sql
+        BranchSelect.sql
+        BranchUpdate.sql
+        PersonDelete.sql
+        PersonInsert.sql
+        PersonSelect.sql
+        PersonUpdate.sql
+        TransactionDelete.sql
+        TransactionInsert.sql
+        TransactionSelect.sql
+        TransactionUpdate.sql
+        
