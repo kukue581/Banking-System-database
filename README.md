@@ -18,7 +18,7 @@ Banking System/
 
 
 Banking System/StoredProcedures/
-        -•	BranchDelete.sql
+•       BranchDelete.sql
 •	BranchInsert.sql
 •	BranchSelect.sql
 •	BranchUpdate.sql
