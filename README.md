@@ -15,21 +15,21 @@ Banking System/
 -   CreateShadowPersonTable.sql
 -   CreateTransactionsTable.sql
 -   CreateTransactionView.sql
--   filelist.txt
--   
-L¦¦¦StoredProcedures
-        BranchDelete.sql
-        BranchInsert.sql
-        BranchSelect.sql
-        BranchUpdate.sql
-        PersonDelete.sql
-        PersonInsert.sql
-        PersonSelect.sql
-        PersonUpdate.sql
-        TransactionDelete.sql
-        TransactionInsert.sql
-        TransactionSelect.sql
-        TransactionUpdate.sql
+
+
+StoredProcedures
+BranchDelete.sql
+BranchInsert.sql
+BranchSelect.sql
+BranchUpdate.sql
+PersonDelete.sql
+PersonInsert.sql
+PersonSelect.sql
+PersonUpdate.sql
+TransactionDelete.sql
+TransactionInsert.sql
+TransactionSelect.sql
+TransactionUpdate.sql
         
 
 
