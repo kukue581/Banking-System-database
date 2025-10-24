@@ -55,9 +55,8 @@ Banking System/StoredProcedures/
 2. Run the table creation scripts first (in the `banking system` folder).
 3. Then execute the stored procedures (in the `stored procedures` folder).  
 4. Test the database by inserting and retrieving customer or transaction data.
+5. Then execute the stored procedures (in the `stored procedures` folder).  
+6. Test the database by inserting and retrieving customer or transaction data.
 
 👤 Author
 Kudzaishe Mativenga
-
-4. Then execute the stored procedures (in the `stored procedures` folder).  
-5. Test the database by inserting and retrieving customer or transaction data.
