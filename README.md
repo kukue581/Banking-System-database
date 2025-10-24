@@ -17,19 +17,21 @@ Banking System/
 -   CreateTransactionView.sql
 
 
-StoredProcedures
-BranchDelete.sql
-BranchInsert.sql
-BranchSelect.sql
-BranchUpdate.sql
-PersonDelete.sql
-PersonInsert.sql
-PersonSelect.sql
-PersonUpdate.sql
-TransactionDelete.sql
-TransactionInsert.sql
-TransactionSelect.sql
-TransactionUpdate.sql
+Banking System/StoredProcedures/
+        -•	BranchDelete.sql
+•	BranchInsert.sql
+•	BranchSelect.sql
+•	BranchUpdate.sql
+•	PersonDelete.sql
+•	PersonInsert.sql
+•	PersonSelect.sql
+•	PersonUpdate.sql
+•	TransactionDelete.sql
+•	TransactionInsert.sql
+•	TransactionSelect.sql
+•	TransactionUpdate.sql
+
+
         
 
 
